@@ -1,7 +1,7 @@
 # 1st-rep
 1st edit
 
-................. #####READ ME
+######READ ME
 
 The illustration (examples) paragraph is useful when we want to explain or clarify something, such as an object, a person, a concept, or a situation. When we illustrate, we show how something is as we point out.
 
